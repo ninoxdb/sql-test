@@ -1,0 +1,14 @@
+{
+  "name": "sql-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test-sql-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norbert Toepker",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^7.1.0"
+  }
+}
