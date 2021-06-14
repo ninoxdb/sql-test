@@ -3,11 +3,11 @@ const config = {
     "name": "ninox_mssqltest",  // used to identify the SQL connection from within Ninox
     "type": "mssql",
     "active": true,
-    "server": "localhost", 		// needs to be changed
+    "server": "localhost",      // needs to be changed
     "domain": "WINDOWSDOMAIN",  // needs to be changed or removed
     "user": "MSSQLUsername",    // needs to be changed
     "password": "topsecret",    // needs to be changed
-    "database": "db_name",		// needs to be changed
+    "database": "db_name",      // needs to be changed
     "options": {
         "encrypt": false,
         "trustServerCertificate": true
