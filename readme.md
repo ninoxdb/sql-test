@@ -1,6 +1,6 @@
 # SQL Test
 
-This simple script
+This simple script connects to a MSSQL Server database after being configured correctly. This helps to quickly test a given configuration.
 
 ## Prerequisite
 
